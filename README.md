@@ -1,4 +1,4 @@
-# NFT Marketplace - Projeto Final da Disciplina de React
+# NFTec - Projeto Final da Disciplina de React
 Bem-vindo ao NFT Marketplace, o projeto final da disciplina de React do curso do Serratec. Este projeto representa o resultado do esforço e aprendizado do grupo, aplicando os conceitos fundamentais aprendidos durante o curso.
 ## Objetivo
 O objetivo principal deste projeto era desenvolver um site utilizando os conceitos aprendidos em aula, destacando:
@@ -11,7 +11,7 @@ O objetivo principal deste projeto era desenvolver um site utilizando os conceit
 - [x] Salvar informações em contexto;
 
 ## Funcionalidades
-O NFT Marketplace oferece as seguintes funcionalidades:
+O NFTec oferece as seguintes funcionalidades:
 
 - Cadastro e Login de usuário;
 - Simulação de compra e venda de NFTs;
